@@ -5,7 +5,7 @@ import FuncComp from '../Components/Functional';
 class ClassComponent extends React.Component{
     render(){
         return(
-            <h3>I AM the FIRST CLASS COMPONENT</h3>
+            <h3>I AM the CLASS COMPONENT</h3>
         )
     }
 }
